@@ -293,3 +293,13 @@ form textarea{
     margin-top:4rem;
     padding-left:5%;
 }
+.calc-section a:hover{
+    filter:brightness(125%)
+}
+.calc-section a:link{
+    color:var(--burgundy);
+
+}
+.calc-section a:visited{
+    color:var(--burgundy);
+}
