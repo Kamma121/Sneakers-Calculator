@@ -158,7 +158,7 @@ footer p{
     border-radius: 50%;
     background-color: var(--burgundy);
     position: absolute;
-    top:3px;
+    top:5px;
     left:-16px;
     height:15px;
     width:15px;
