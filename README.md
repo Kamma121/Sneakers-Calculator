@@ -5,6 +5,7 @@ A project which gives you opportunity to calculate your profit from selling on p
 
 In the future I am planning to add working calculator and some scripts, that will improve whole website.
 
+Click [here](https://kamma121.github.io/Sneakers-Calculator/) to check out my project.
 
 ## Tech stack
 
