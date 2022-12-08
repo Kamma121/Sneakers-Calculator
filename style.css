@@ -18,7 +18,6 @@ body{
     color: var(--white-creamy);
     margin:0;
     padding:0;
-    position:relative;
 }
 header{
     background-color: var(--black);
@@ -112,27 +111,27 @@ footer p{
 }
 #main-page
 {
-
     padding: 4rem 1rem 10rem 1rem;
     max-width: 1200px;
     margin: 0 auto;
-
 }
-#main-page h2{
+#main-page h2
+{
     margin-top:4rem;
     font-size:40px;
     font-family: var(--sans);
-
 }
 #main-page p
 {
     font-size: 18px;
 }
-.text{
+.text
+{
     text-align:justify ;
     line-height: 2;
 }
-#main-page ul{
+#main-page ul
+{
     list-style-type: none;
 }
 #main-page li {
@@ -197,10 +196,7 @@ footer p{
     .text{
         text-align:left ;
     }
-    .contact-section h2
-    {
-        font-size: 20px;
-    }
+
 }
 @media screen and (max-width:640px)
 {
