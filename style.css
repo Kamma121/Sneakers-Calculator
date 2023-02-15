@@ -299,3 +299,63 @@ form textarea{
 .calc-section a:visited{
     color:var(--burgundy);
 }
+.platform-calculator{
+    display:flex;
+    justify-content: space-between;
+}
+
+.stockx-clac{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+#stockx{
+    border-radius: 10px;
+    font-size: 18px;
+}
+
+#stockx-btn{
+    border-radius: 15px;
+    width:50%;
+    background-color: var(--burgundy);
+    border-color: var(--burgundy);
+    color:var(--white-creamy);
+    font-size: 20px;
+    margin: 0 auto;
+}
+.alias-calc
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+#alias
+{
+    border-radius: 10px;
+    font-size:18px;
+}
+#alias-btn
+{
+    border-radius: 15px;
+    width:50%;
+    background-color: var(--burgundy);
+    border-color: var(--burgundy);
+    color:var(--white-creamy);
+    font-size: 20px;
+    margin: 0 auto;
+}
+
+
+
+
+
+
+
+
+
+
+
